@@ -1,4 +1,4 @@
-Onion Links 2023 - Fresh list of working and onions for Dark Web exploration
+Onion Links 2023 - Fresh list of working onions for Dark Web exploration
 ================
 Disclaimer: Please acknowledge that all the information posted in this list is published for research purposes only.
 
