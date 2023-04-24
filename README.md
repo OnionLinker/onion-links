@@ -1,7 +1,8 @@
 Onion Links 2023 - Fresh list of working onions for Dark Web exploration
 ================
 This "Hidden Wiki"-style list was originally taken from [hidden-wiki.cc](https://hidden-wiki.cc), all credit goes to it's original author.   
-If you liked the resource and want me to continue adding more links, please consider starring:star:  the repo.
+
+If you liked the resource and want me to continue adding more links, please consider :star:starring:star:  the repo.
 
 Disclaimer: Please acknowledge that all the information posted in this list is published for research purposes only.
 
