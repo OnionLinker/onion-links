@@ -1,6 +1,6 @@
 Onion Links 2023 - Fresh list of working onions for Dark Web exploration
 ================
-This list was originally taken from [hidden-wiki.cc](https://hidden-wiki.cc), all credit goes to it's original author.   
+This "Hidden Wiki"-style list was originally taken from [hidden-wiki.cc](https://hidden-wiki.cc), all credit goes to it's original author.   
 If you liked the resource and want me to continue adding more links, please consider starring:star:  the repo.
 
 Disclaimer: Please acknowledge that all the information posted in this list is published for research purposes only.
@@ -147,3 +147,5 @@ Non-English Websites:
 *   [Germania](http://germania7zs27fu3gi76wlr5rd64cc2yjexyzvrbm4jufk7pibrpizad.onion/) – German Dark Web Forum
 *   [Bibliothèque](http://bibliotgj7uoalolnsxwebynomyz4jwqibaq4hsgl5tnhpvyfmfzsbyd.onion/) – French Darknet book library
 *   [Türkçe İndex](http://indexzz7n3cq4slh5bh2lcctmiwk2y7epxjvkpyaemtuat2alprveyid.onion/) – Turkish index of Deep Web sites
+
+Hidden Wiki 2023
