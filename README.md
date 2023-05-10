@@ -6,6 +6,15 @@ If you liked the resource and want me to continue adding more links, please cons
 
 Disclaimer: Please acknowledge that all the information posted in this list is published for research purposes only.
 
+------------------
+What is Hidden Wiki?:
+---------------------
+Hidden Wiki has been the go-to place for Dark Web links since the year 2007. Our Hidden Wiki helps you stay safe by only listing verified links that are safe to visit. If you want to add a link or report a dead site, contact us at hiddenwiki2023@proton.me
+
+*   To access the listed websites, you need to download the [Tor Browser](https://www.torproject.org/download/)
+*   After opening [hidden-wiki.cc](https://hidden-wiki.cc) in the Tor Browser, bookmark the page
+*   After that you can freely explore our .onion links
+
 Email:
 ---------------------
 
